@@ -1,1 +1,5 @@
+# Ignore the node_modules directory
 /node_modules
+
+# Optionally, ignore other files or directories
+# /path/to/file-or-directory
